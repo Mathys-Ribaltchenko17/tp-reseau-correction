@@ -1,0 +1,35 @@
+body {
+            /* Typographie moderne et système (s'adapte à l'OS) */
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #fafafa; /* Blanc très légèrement cassé/gris */
+            color: #333333; /* Gris très foncé (moins agressif que le noir pur) */
+            line-height: 1.6; /* Espacement des lignes pour une lecture agréable */
+            max-width: 700px; /* Largeur bloquée pour que le texte ne prenne pas tout l'écran */
+            margin: 60px auto; /* Centre la page avec de l'espace en haut et en bas */
+            padding: 0 20px; /* Marge intérieure pour les petits écrans */
+        }
+h1 {
+            color: #111111; /* Presque noir */
+            font-size: 2.2rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eaeaea; /* Une ligne discrète sous le titre */
+        }
+
+.TP0 {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none; /* Enlève le soulignement du lien */
+    border-radius: 5px;
+    display: inline-block;
+}
+.TP1 {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none; /* Enlève le soulignement du lien */
+    border-radius: 5px;
+    display: inline-block;
+}
